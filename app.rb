@@ -34,7 +34,4 @@ while player1.life_points > 0 && player2.life_points > 0
    
 end
 
-human1 = HumanPlayer.new("Conan") #Donner une identité au joueur humain.   
-human1.show_state
-
 binding.pry
