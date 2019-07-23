@@ -15,6 +15,13 @@ Création d'un nouveau type de joueur qui va disposer de plus de compétences et
 	- modifier dans une "class" qui a hérité 
 	- rajouter du contenu dans 2 "class" différentes.
 	
+Version 3.O:
+un jeu mieux organisé et plus d'ennemis.
+
+L'ensemble de ligne de code de l'app_2.rb on été transférés dans un class Game et répartis dans des objets afin de pouvoir les appeler facilement dans l'app_3.rb.
+L'app_3.rb est incomplet;
+La version s'apparente au rendu attendu avant le point => c) Quelques fonctionnalités en plus..
+	
 
 
 
