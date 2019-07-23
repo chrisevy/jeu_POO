@@ -8,14 +8,17 @@ Pour cela nous avons créer une "class" Player afin de pouvoir créer des métho
 
 
 
-Version 2.0: 
+Version 2.0 : 
 créer un nouveau type de joueur
 Création d'un nouveau type de joueur qui va disposer de plus de compétences et de plus de choix : il sera joué par un humain.Grâce à cela nous allons pouvoir travailler sur plusieurs point : 
 	- la notion de "class" heritage
 	- modifier dans une "class" qui a hérité 
 	- rajouter du contenu dans 2 "class" différentes.
 	
-Version 3.O:
+	
+	
+	
+Version 3.0 :
 un jeu mieux organisé et plus d'ennemis.
 
 L'ensemble de ligne de code de l'app_2.rb on été transférés dans un class Game et répartis dans des objets afin de pouvoir les appeler facilement dans l'app_3.rb.
